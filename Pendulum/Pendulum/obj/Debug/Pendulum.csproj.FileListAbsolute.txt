@@ -1,0 +1,9 @@
+c:\users\hoang\documents\visual studio 2015\Projects\Pendulum\Pendulum\bin\Debug\Pendulum.exe.config
+c:\users\hoang\documents\visual studio 2015\Projects\Pendulum\Pendulum\bin\Debug\Pendulum.exe
+c:\users\hoang\documents\visual studio 2015\Projects\Pendulum\Pendulum\bin\Debug\Pendulum.pdb
+c:\users\hoang\documents\visual studio 2015\Projects\Pendulum\Pendulum\obj\Debug\Pendulum.csprojResolveAssemblyReference.cache
+c:\users\hoang\documents\visual studio 2015\Projects\Pendulum\Pendulum\obj\Debug\Pendulum.Form1.resources
+c:\users\hoang\documents\visual studio 2015\Projects\Pendulum\Pendulum\obj\Debug\Pendulum.Properties.Resources.resources
+c:\users\hoang\documents\visual studio 2015\Projects\Pendulum\Pendulum\obj\Debug\Pendulum.csproj.GenerateResource.Cache
+c:\users\hoang\documents\visual studio 2015\Projects\Pendulum\Pendulum\obj\Debug\Pendulum.exe
+c:\users\hoang\documents\visual studio 2015\Projects\Pendulum\Pendulum\obj\Debug\Pendulum.pdb
